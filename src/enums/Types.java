@@ -1,7 +1,5 @@
 package enums;
 
 public enum Types {
-
-    RESERVED_WORD, SYMBOL, NUMBER, ID, NUMBER_TYPE
-
+    PASCAL_WORD, LOGIC, ARITHMETIC, CYCLE,  SYMBOL, NUMBER, ID, NUMBER_TYPE
 }
